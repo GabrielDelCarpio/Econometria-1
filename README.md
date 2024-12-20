@@ -1,2 +1,2 @@
-# Econometria-1
-Fundamentos de Econometría
+# Fundamentos de Econometría 1
+Trabajo final del curso de Fundamentos de Econometría
